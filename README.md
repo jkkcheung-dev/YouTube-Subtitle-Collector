@@ -12,7 +12,7 @@ A Chrome extension for language learners. Select words directly from YouTube's s
 - **Auto-copy** — the selected text is automatically copied to your clipboard the moment you release the mouse. No extra button click needed.
 - **Saved word lists** — every word you select is saved to your browser's local storage, grouped by video.
 - **Popup browser** — click the extension icon in your browser toolbar to view all saved words, organized under each video's title.
-- **Collapsible groups** — click the ▼/▶ chevron next to a video title to expand or collapse its word list.
+- **Collapsible groups** — click the ▼ chevron next to a video title to expand or collapse its word list.
 - **Delete lists** — remove an entire video's word list with one click using the Delete button.
 
 ---
@@ -46,10 +46,9 @@ This extension is not published to the Chrome Web Store. Install it manually as 
 
 ### Viewing your saved words
 
-1. Click the **YouTube Subtitle Collector icon** (red "W") in your browser toolbar.
+1. Click the **YouTube Subtitle Collector icon** (light green "S") in your browser toolbar.
 2. The popup shows all your saved words, grouped by video title.
-3. Click the **▼ chevron** on the left of a video title to collapse that group.
-4. Click the **▶ chevron** to expand it again.
+3. Click the **▼ chevron** on the left of a video title to collapse or expand that group.
 
 ### Deleting a word list
 
