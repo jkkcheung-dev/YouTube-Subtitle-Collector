@@ -1,4 +1,4 @@
-# YouTube Word Collector — Copilot Instructions
+# YouTube Subtitle Collector — Copilot Instructions
 
 ## Project Overview
 

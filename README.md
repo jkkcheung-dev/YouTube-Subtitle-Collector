@@ -1,4 +1,4 @@
-# YouTube Word Collector
+# YouTube Subtitle Collector
 
 A Chrome extension for language learners. Select words directly from YouTube's subtitles — they're automatically copied to your clipboard and saved in a tidy list, grouped by video.
 
@@ -26,9 +26,9 @@ This extension is not published to the Chrome Web Store. Install it manually as 
 3. Enable **Developer mode** using the toggle in the top-right corner.
 4. Click **Load unpacked**.
 5. Select the folder containing this project (the one with `manifest.json` in it).
-6. The **YouTube Word Collector** icon (red "W") will appear in your browser toolbar.
+6. The **YouTube Subtitle Collector** icon (red "W") will appear in your browser toolbar.
 
-> **Tip:** Pin the extension to your toolbar by clicking the puzzle-piece icon → pin icon next to "YouTube Word Collector".
+> **Tip:** Pin the extension to your toolbar by clicking the puzzle-piece icon → pin icon next to "YouTube Subtitle Collector".
 
 ---
 
@@ -46,7 +46,7 @@ This extension is not published to the Chrome Web Store. Install it manually as 
 
 ### Viewing your saved words
 
-1. Click the **YouTube Word Collector icon** (red "W") in your browser toolbar.
+1. Click the **YouTube Subtitle Collector icon** (red "W") in your browser toolbar.
 2. The popup shows all your saved words, grouped by video title.
 3. Click the **▼ chevron** on the left of a video title to collapse that group.
 4. Click the **▶ chevron** to expand it again.
@@ -92,4 +92,4 @@ icons/          — Extension icons (16px, 48px, 128px)
 | Clicking subtitles pauses/unpauses the video | Reload the extension and the YouTube tab. If it persists, the MutationObserver may need a moment to initialize — wait a second after the video loads. |
 | "Copied!" toast doesn't appear | Check that the page has focus. Chrome requires the page to be focused for clipboard write access. |
 | Words don't appear in the popup | The popup only shows words from URLs matching `youtube.com/watch?v=...`. Make sure you're on a video page, not the YouTube home page or a channel page. |
-| Extension icon is missing from toolbar | Click the puzzle-piece 🧩 icon in Chrome's toolbar → click the pin icon next to "YouTube Word Collector". |
+| Extension icon is missing from toolbar | Click the puzzle-piece 🧩 icon in Chrome's toolbar → click the pin icon next to "YouTube Subtitle Collector". |
