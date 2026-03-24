@@ -26,7 +26,7 @@ This extension is not published to the Chrome Web Store. Install it manually as 
 3. Enable **Developer mode** using the toggle in the top-right corner.
 4. Click **Load unpacked**.
 5. Select the folder containing this project (the one with `manifest.json` in it).
-6. The **YouTube Subtitle Collector** icon (red "W") will appear in your browser toolbar.
+6. The **YouTube Subtitle Collector** icon (light green "S") will appear in your browser toolbar.
 
 > **Tip:** Pin the extension to your toolbar by clicking the puzzle-piece icon → pin icon next to "YouTube Subtitle Collector".
 
