@@ -46,20 +46,6 @@ This extension is not published to the Chrome Web Store. Install it manually as 
 
 ---
 
-## File Structure
-
-```
-manifest.json   — Extension configuration (Manifest V3)
-content.js      — Makes subtitles selectable; handles clipboard copy and storage
-content.css     — CSS overrides to enable text selection on YouTube's caption layer
-popup.html      — Popup page markup
-popup.js        — Popup logic (render lists, toggle, delete)
-popup.css       — Popup styling
-icons/          — Extension icons (16px, 48px, 128px)
-```
-
----
-
 ## Troubleshooting
 
 | Problem | Solution |
