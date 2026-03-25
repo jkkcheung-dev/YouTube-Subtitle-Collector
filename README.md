@@ -15,6 +15,10 @@ A Chrome extension for language learners. Select words directly from YouTube's s
 - **Collapsible groups** — click the ▼ chevron next to a video title to expand or collapse its word list.
 - **Delete lists** — remove an entire video's word list with one click using the Delete button.
 
+### How to Use
+![screenshot placeholder1](screenshots/s1.png)
+
+![screenshot placeholder2](screenshots/s2.png)
 ---
 
 ## Installation
@@ -29,33 +33,6 @@ This extension is not published to the Chrome Web Store. Install it manually as 
 6. The **YouTube Subtitle Collector** icon ![S icon](icons/icon16.png) will appear in your browser toolbar.
 
 > **Tip:** Pin the extension to your toolbar by clicking the puzzle-piece icon → pin icon next to "YouTube Subtitle Collector".
-
----
-
-## How to Use
-
-### Selecting and saving words
-
-1. Go to any YouTube video.
-2. Enable subtitles on the video using YouTube's CC button.
-3. When subtitles appear on the screen, **hover your mouse over the subtitle text** — the cursor will change to a text cursor (I-beam), indicating the text is selectable.
-4. **Click and drag** to select the word or phrase you want to save.
-5. Release the mouse — you'll see a brief **"Copied!"** notification near the subtitles, confirming the text has been:
-   - Copied to your clipboard (you can paste it anywhere immediately).
-   - Saved to your word list for this video.
-
-### Viewing your saved words
-
-1. Click the **YouTube Subtitle Collector icon** ![S icon](icons/icon16.png) in your browser toolbar.
-2. The popup shows all your saved words, grouped by video title.
-3. Click the **▼ chevron** on the left of a video title to collapse or expand that group.
-
-### Deleting a word list
-
-1. Open the popup by clicking the extension icon.
-2. Find the video group you want to remove.
-3. Click the **Delete** button on the right side of that group's header.
-4. The entire group and all its words are permanently removed.
 
 ---
 
