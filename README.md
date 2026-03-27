@@ -15,10 +15,6 @@ A Chrome extension for language learners. Select words directly from YouTube's s
 - **Collapsible groups** — click the ▼ chevron next to a video title to expand or collapse its word list.
 - **Delete lists** — remove an entire video's word list with one click using the Delete button.
 
-### How to Use
-![screenshot placeholder1](screenshots/s1.png)
-
-![screenshot placeholder2](screenshots/s2.png)
 ---
 
 ## Installation
@@ -33,6 +29,11 @@ This extension is not published to the Chrome Web Store. Install it manually as 
 6. The **YouTube Subtitle Collector** icon ![S icon](icons/icon16.png) will appear in your browser toolbar.
 
 > **Tip:** Pin the extension to your toolbar by clicking the puzzle-piece icon → pin icon next to "YouTube Subtitle Collector".
+
+### How to Use
+![screenshot placeholder1](screenshots/s1.png)
+
+![screenshot placeholder2](screenshots/s2.png)
 
 ---
 
